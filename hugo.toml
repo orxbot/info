@@ -8,3 +8,13 @@ theme = 'paper'
     enable = true
     repo = "orxbot/info"    # The repo to store comments
     issueTerm = "pathname"
+
+  # giscus
+[params.giscus]
+  repo = 'orxbot/info'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOOShVSQ'
+  category = 'General'
+  categoryId = 'DIC_kwDOOShVSc4Cos4E'
+  mapping = 'pathname'
+  theme = 'light'
+  lang = 'zh-CN'
