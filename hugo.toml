@@ -3,4 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
 
-
+[services]
+  [services.disqus]
+    shortname = 'hellotube'
