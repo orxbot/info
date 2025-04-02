@@ -3,7 +3,4 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
 
-[params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
-    enable = true
-    repo = "orxbot/info"    # The repo to store comments
-    issueTerm = "pathname"
+
