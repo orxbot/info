@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'paper'
 
-[services]
-  [services.disqus]
-    shortname = 'hellotube'
 
 [params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
     enable = true
